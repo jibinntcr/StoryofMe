@@ -34,17 +34,7 @@ You can copy and paste the generated biodata for your use.
 Sample Biodata
 Here's an example of what the generated biodata might look like:
 
-╔════════════════════════════╗
-║ Name:       John Doe
-║ Phone:      (123) 456-7890
-║ Age:        30 years
-║ Height:     175 cm
-║ Weight:     70 kg
-║ Address:    123 Main St, City, Country
-║ Hobbies:
-║   - Reading
-║   - Cooking
-║   - Hiking
-╚════════════════════════════╝
+![image](https://github.com/jibinntcr/StoryofMe/assets/113666793/50469509-5e8f-4439-8229-c049cf416042)
+
 
 You can customize this `README.md` file by adding more details or instructions as needed. Make sure to include any additional information about the program, how to contribute, and the license details if you plan to share it with others.
